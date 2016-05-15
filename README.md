@@ -1,6 +1,7 @@
 # wangwang
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.6.1.
+[![Build Status](https://travis-ci.org/paesuka/wangwang.svg?branch=master)](https://travis-ci.org/paesuka/wangwang)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/cwufMKilpWz1T9BF3WRn)](https://www.codacy.com/app/Codacy/codacy-coverage-reporter)
 
 ## Getting Started
 
