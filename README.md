@@ -1,7 +1,7 @@
 # wangwang
 
 [![Build Status](https://travis-ci.org/paesuka/wangwang.svg?branch=master)](https://travis-ci.org/paesuka/wangwang)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/cwufMKilpWz1T9BF3WRn)](https://www.codacy.com/app/paesuka/wangwang)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fee45986475341dda335dd901dc10e27)](https://www.codacy.com/app/paesuka/wangwang)
 
 ## Getting Started
 
